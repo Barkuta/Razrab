@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Razrab/static/css/main.57be433c.css",
+    "main.js": "/Razrab/static/js/main.92886dd6.js",
+    "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
+    "index.html": "/Razrab/index.html",
+    "main.57be433c.css.map": "/Razrab/static/css/main.57be433c.css.map",
+    "main.92886dd6.js.map": "/Razrab/static/js/main.92886dd6.js.map",
+    "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57be433c.css",
+    "static/js/main.92886dd6.js"
+  ]
+}
