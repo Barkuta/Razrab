@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Razrab/static/css/main.b7d3dc83.css",
+    "main.css": "/Razrab/static/css/main.ed6d0a96.css",
     "main.js": "/Razrab/static/js/main.af606f3a.js",
     "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
     "static/media/skrin1.png": "/Razrab/static/media/skrin1.908c092608c338a15351.png",
     "static/media/Desktop.png": "/Razrab/static/media/Desktop.7dd29f6a14ffe584751e.png",
     "index.html": "/Razrab/index.html",
-    "main.b7d3dc83.css.map": "/Razrab/static/css/main.b7d3dc83.css.map",
+    "main.ed6d0a96.css.map": "/Razrab/static/css/main.ed6d0a96.css.map",
     "main.af606f3a.js.map": "/Razrab/static/js/main.af606f3a.js.map",
     "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7d3dc83.css",
+    "static/css/main.ed6d0a96.css",
     "static/js/main.af606f3a.js"
   ]
 }
