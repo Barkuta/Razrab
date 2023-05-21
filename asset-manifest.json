@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Razrab/static/css/main.8c5c3aa3.css",
-    "main.js": "/Razrab/static/js/main.92886dd6.js",
+    "main.css": "/Razrab/static/css/main.b7d3dc83.css",
+    "main.js": "/Razrab/static/js/main.af606f3a.js",
     "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
+    "static/media/skrin1.png": "/Razrab/static/media/skrin1.908c092608c338a15351.png",
+    "static/media/Desktop.png": "/Razrab/static/media/Desktop.7dd29f6a14ffe584751e.png",
     "index.html": "/Razrab/index.html",
-    "main.8c5c3aa3.css.map": "/Razrab/static/css/main.8c5c3aa3.css.map",
-    "main.92886dd6.js.map": "/Razrab/static/js/main.92886dd6.js.map",
+    "main.b7d3dc83.css.map": "/Razrab/static/css/main.b7d3dc83.css.map",
+    "main.af606f3a.js.map": "/Razrab/static/js/main.af606f3a.js.map",
     "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c5c3aa3.css",
-    "static/js/main.92886dd6.js"
+    "static/css/main.b7d3dc83.css",
+    "static/js/main.af606f3a.js"
   ]
 }
