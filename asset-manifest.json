@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Razrab/static/css/main.916318b8.css",
-    "main.js": "/Razrab/static/js/main.b9df8df4.js",
+    "main.css": "/Razrab/static/css/main.d250e057.css",
+    "main.js": "/Razrab/static/js/main.0173c093.js",
     "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
     "static/media/skrin1.png": "/Razrab/static/media/skrin1.4a98a47b315258e2e670.png",
     "static/media/Desktop.png": "/Razrab/static/media/Desktop.7dd29f6a14ffe584751e.png",
+    "static/media/tg.png": "/Razrab/static/media/tg.1c114d53e5a785c5dfb5.png",
+    "static/media/logo-whatsapp.svg": "/Razrab/static/media/logo-whatsapp.001c71e7748d8b38420e463a3b126901.svg",
     "index.html": "/Razrab/index.html",
-    "main.916318b8.css.map": "/Razrab/static/css/main.916318b8.css.map",
-    "main.b9df8df4.js.map": "/Razrab/static/js/main.b9df8df4.js.map",
+    "static/media/logo-instagram.svg": "/Razrab/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
+    "main.d250e057.css.map": "/Razrab/static/css/main.d250e057.css.map",
+    "main.0173c093.js.map": "/Razrab/static/js/main.0173c093.js.map",
     "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.916318b8.css",
-    "static/js/main.b9df8df4.js"
+    "static/css/main.d250e057.css",
+    "static/js/main.0173c093.js"
   ]
 }
