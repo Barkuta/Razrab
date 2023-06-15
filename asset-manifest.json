@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/Razrab/static/css/main.a9185315.css",
-    "main.js": "/Razrab/static/js/main.5fd6f584.js",
+    "main.css": "/Razrab/static/css/main.d927023e.css",
+    "main.js": "/Razrab/static/js/main.2ec2569e.js",
+    "static/css/441.1f1caf69.chunk.css": "/Razrab/static/css/441.1f1caf69.chunk.css",
+    "static/js/441.32c51d9a.chunk.js": "/Razrab/static/js/441.32c51d9a.chunk.js",
+    "static/css/927.fde35155.chunk.css": "/Razrab/static/css/927.fde35155.chunk.css",
+    "static/js/927.12199869.chunk.js": "/Razrab/static/js/927.12199869.chunk.js",
     "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
+    "static/js/93.d98d0cf0.chunk.js": "/Razrab/static/js/93.d98d0cf0.chunk.js",
     "static/media/javascript_basic certificate_page-0001.jpg": "/Razrab/static/media/javascript_basic certificate_page-0001.dc3908f9087ac0eb904e.jpg",
     "static/media/css certificate-2_page-0001.jpg": "/Razrab/static/media/css certificate-2_page-0001.425d047c8d6221c3da8f.jpg",
     "static/media/skrin1.png": "/Razrab/static/media/skrin1.4a98a47b315258e2e670.png",
@@ -11,12 +16,17 @@
     "index.html": "/Razrab/index.html",
     "static/media/logo-whatsapp.svg": "/Razrab/static/media/logo-whatsapp.001c71e7748d8b38420e463a3b126901.svg",
     "static/media/logo-instagram.svg": "/Razrab/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
-    "main.a9185315.css.map": "/Razrab/static/css/main.a9185315.css.map",
-    "main.5fd6f584.js.map": "/Razrab/static/js/main.5fd6f584.js.map",
-    "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
+    "main.d927023e.css.map": "/Razrab/static/css/main.d927023e.css.map",
+    "main.2ec2569e.js.map": "/Razrab/static/js/main.2ec2569e.js.map",
+    "441.1f1caf69.chunk.css.map": "/Razrab/static/css/441.1f1caf69.chunk.css.map",
+    "441.32c51d9a.chunk.js.map": "/Razrab/static/js/441.32c51d9a.chunk.js.map",
+    "927.fde35155.chunk.css.map": "/Razrab/static/css/927.fde35155.chunk.css.map",
+    "927.12199869.chunk.js.map": "/Razrab/static/js/927.12199869.chunk.js.map",
+    "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map",
+    "93.d98d0cf0.chunk.js.map": "/Razrab/static/js/93.d98d0cf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9185315.css",
-    "static/js/main.5fd6f584.js"
+    "static/css/main.d927023e.css",
+    "static/js/main.2ec2569e.js"
   ]
 }
