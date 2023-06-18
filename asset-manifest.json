@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Razrab/static/css/main.ac56a44b.css",
+    "main.css": "/Razrab/static/css/main.f43f8847.css",
     "main.js": "/Razrab/static/js/main.286345cf.js",
     "static/js/787.56655dc1.chunk.js": "/Razrab/static/js/787.56655dc1.chunk.js",
     "static/media/javascript_basic certificate_page-0001.jpg": "/Razrab/static/media/javascript_basic certificate_page-0001.dc3908f9087ac0eb904e.jpg",
@@ -11,12 +11,12 @@
     "index.html": "/Razrab/index.html",
     "static/media/logo-whatsapp.svg": "/Razrab/static/media/logo-whatsapp.001c71e7748d8b38420e463a3b126901.svg",
     "static/media/logo-instagram.svg": "/Razrab/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
-    "main.ac56a44b.css.map": "/Razrab/static/css/main.ac56a44b.css.map",
+    "main.f43f8847.css.map": "/Razrab/static/css/main.f43f8847.css.map",
     "main.286345cf.js.map": "/Razrab/static/js/main.286345cf.js.map",
     "787.56655dc1.chunk.js.map": "/Razrab/static/js/787.56655dc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac56a44b.css",
+    "static/css/main.f43f8847.css",
     "static/js/main.286345cf.js"
   ]
 }
