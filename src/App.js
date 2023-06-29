@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import { Route, Routes } from "react-router-dom";
+import "./App.css";
+import Content from "./Components/Content/Content";
+import Footer from "./Components/Footer/Footer";
+import Header from "./Components/Header/Header";
+import Info from "./Components/Info/Info";
+import Navbar from "./Components/Navbar/Navbar";
+import Reviews from "./Components/Reviews/Reviews";
+import Services from "./Components/Services/Sevices";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-wrapper">
+      <Header />
+      <Navbar />
+      <Footer />
+      <div className="app-wrapper-content">
+        <Routes>
+          <Route path="/" element={<Content />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/info" element={<Info />} />
+          <Route path="/reviews" element={<Reviews />} />
+        </Routes>
+      </div>
     </div>
   );
 }
