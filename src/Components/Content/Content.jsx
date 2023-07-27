@@ -2,6 +2,10 @@ import React, { useEffect } from "react";
 import s from "./Content.module.css";
 import item from "../Assets/skrin1.png";
 import item2 from "../Assets/Desktop.png";
+import item3 from "../Assets/IMG_1167.JPG";
+import item4 from "../Assets/IMG_1166.JPG";
+import item5 from "../Assets/IMG_1165.JPG";
+import item6 from "../Assets/IMG_1164.JPG";
 
 const Content = () => {
   useEffect(() => {
@@ -32,6 +36,18 @@ const Content = () => {
           <p>Our work</p>
         </div>
         <sections className={s.sections}>
+          <div className={s.box2}>
+            <img src={item6} alt="" />
+          </div>
+          <div className={s.box2}>
+            <img src={item5} alt="" />
+          </div>
+          <div className={s.box2}>
+            <img src={item4} alt="" />
+          </div>
+          <div className={s.box2}>
+            <img src={item3} alt="" />
+          </div>
           <div className={s.box1}>
             <img src={item} alt="" />
           </div>
